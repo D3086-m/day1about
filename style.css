@@ -1,0 +1,15 @@
+:root{
+    --background-color: rgb(48, 148, 88);
+    --color: white;
+    --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-size: medium;
+}
+body{
+    background-color: var(--background-color);
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: medium;
+}
+td{
+    border: 1px solid salmon;
+}
